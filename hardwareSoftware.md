@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hard- und Softwareschnittstellen
 permalink: /about/hardwareSoftware
 ---
