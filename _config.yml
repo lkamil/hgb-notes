@@ -19,20 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: HGB notes
-email: your-email@example.com
+email: lkamil@hgb-leipzig.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Collection of notes I wrote during hgb classes. 
+  No mentioning of student names or citation of what someone said during class.
+  This is mainly for my personal use. 
+  But feel free to use this if you want to look something up or missed class.
 baseurl: "/hgb-notes" # the subpath of your site, e.g. /blog
 url: "https://lkamil.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  lkamil
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+timezone: DE
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Collection of notes I wrote during hgb classes. Mainly for personal use and mostly in german (needless to say I am only attending certain courses, so this is not a complete list). But feel free to use this if you want to look something up or missed class.
+btw, I study Medienkunst im Grundstudium.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am not mentioning any student names or cite what someone said during class.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you have suggestions or privacy concerns, write me an email.
 
-
-[jekyll-organization]: https://github.com/jekyll

@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Hard- und Softwareschnittstellen
-permalink: /about/hardwareSoftware
+layout: post
+title: "Entwicklung von Hard- und Softwareschnittstellen I"
+date:   2022-04-08 15:00:00 +0000
+categories: Werkstattkurse
 ---
-# Hard– und Software Schnittstellen
 
 ## 1. Treffen 08.04.22
 
