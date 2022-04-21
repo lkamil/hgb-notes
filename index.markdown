@@ -7,7 +7,6 @@ layout: default
 # Index
 
 ## Sommersemester 2022
-- Klassentreffen Grundstudium Medienkunst
 
 <div id="archives">
 {% for category in site.categories %}
