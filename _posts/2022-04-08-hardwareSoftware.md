@@ -41,3 +41,36 @@ Eins der Pole kennzeichne ich als 0 Volt (schwarzes Kabel). Das rote Kabel für 
 Bei der Batterie lege ich das schwarze Kabel and das Minus und das rote an das plus (um einen positiven Wert für die Stromstärke zu erhalten.)
 
 Eher Arbeit mit hohen Spannungen und nicht so hohen Stromstärken.
+
+_Treffen am 15.04. ist Feiertag und fällt daher aus._
+
+## 2. Treffen – 22.04.22
+
+Kurze Klärung zur Thematik Gleichstrom vs Wechselstrom (siehe [Stromkrieg](https://de.wikipedia.org/wiki/Stromkrieg)).
+
+Wenn eine Arbeit mit größeren Stromspannungen im öffentlichen Raum ausgestellt wird, muss sie von einem Elektriker abgenommen werden.
+
+Kurze Wiederholung von letzter Woche: 
+- Strom **I** [A] 
+- Spannung **U** [V]
+- Leistung **P** [W]
+    - P = I * U
+    - 1W = 1A * V
+- Widerstand **R** [Ω]
+    - U =  R * I, R = U / I
+
+**Schalter**<br>
+[(Liste der Schaltzeichen)](https://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Elektrik/Elektronik)#Schalter)
+Mit einer Durchgangsprüfung (Menüpunkt am Messgerät) kann ich feststellen, um es sich um einen Taster oder Tastschalter handelt. Alternativ kann auch einfach der Widerstand gemessen werden.
+
+––– Kleine Pause –––
+
+**Potentiometer**<br>
+Über Widerstandsring realisiert.
+
+**Kirchhoffsche Regeln**<br>
+1. Kirchhoffsches Gesetz:<br>
+_In einem Knotenpunkt eines elektrischen Netzwerkes ist die Summe der zufließenden Ströme gleich der Summe der abfließenden Ströme._
+2. Kirchhoffsches Gesetz: <br>
+_Alle Teilspannungen eines Umlaufs bzw. einer Masche in einem elektrischen Netzwerk addieren sich zu null._<br>
+(von [wikipedia](https://de.wikipedia.org/wiki/Kirchhoffsche_Regeln))
