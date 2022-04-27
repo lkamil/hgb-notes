@@ -90,5 +90,63 @@ Besprechung Berlin Biennale (evtl Besuch), documenta, Venedig Biennale<br>
 12. Berlin Biennale wird kuratiert von Kadar Attia.
 Rückblick auf globale Kunstevents, wie zB _documenta Ⅴ_ (1972), _Berlin Biennale Ⅸ_ (2016)
 
-<!-- ## 2. Treffen 27.04.22 -->
+## 2. Treffen 27.04.22
 
+Biennalein Berlin am Wochenende. Mit Rundgang mit Fokus auf Kolonialismus.
+Genaues Wochendende der Exkursion steht noch nicht fest. Teilnahme ist freiwillig.
+
+In den Referaten sollen wir Werke vorstellen. Auf das Thema Zeit eingehen.
+
+## Lecture zum Thema: Vergängliche Zukünfte | neue Zukünfte**
+
+### Futurismus
+
+**Umberto Boccioni (1882-1916)**
+- Italienischer maler und bildhauer des futurismus
+- Besondere Formen der Kontinuität im Weltraum, 1913 [↗](https://de.wikipedia.org/wiki/Einzigartige_Formen_der_Kontinuit%C3%A4t_im_Raum)
+
+**Giacommo Balla (1871-1958)**
+- Il Futurismo Briefkopf
+- Speeding Autombile, 1912
+    - Unstabilität, Bewegung, Unruhe, Spannung
+- Swifts: Bewegungsbahnen + Dynamische Sequenzen, 1913
+- Dynamik eines Hund an der Leine, 1912
+
+**Bewegung**<br>
+- Étienne-Jules Marey mit Georges Demeney, ohne Titel (der Springer), nach 1893<br>
+- Edward Muybridge: The horse in Motion, nach 1878
+
+Italienischer Futursimus steckt tief in der Tradition. Verwendet werden nach wie vor alte Materialien (Beispiel Bronzeskulptur von Boccioni).
+
+Im russischen Konstruktivismus finden auch neue Materalien Verwendung.
+
+Filippo Tommaso Marinetti: Manifest des Futurismus. 
+- Erschien 1909 in Le Figaro, Paris.
+- [Das Manifest auf Wikipedia](https://de.wikipedia.org/wiki/Futurismus#Gr%C3%BCndungsmanifest)
+- Verherrlichung des Krieges, Wunsch Museen, Bibliotheken und Akademien zerstören, Verachtung von Frauen, angriffslustige Bewegung, Schönheit im Kampf, Agressivität
+
+[↗ weitere Manifestos](http://exhibitions.guggenheim.org/futurism/manifestos/)
+
+Boris Groys "Einführung" Über das Neue: Versuch einer Kulturökonomie, 1992
+
+Vladimir Tatlin (1885–1953): Monument für die dritte International, 1919-20
+- Skulptur das ein Modell war für einen Bau, der in Russlandgebaut werden sollte (aber nie gebaut wurde)
+
+**"0-Punkt" der Malerei**
+- Kazimir Malevich (1878-1935): _Das schwarze Quadrat_, 1915<br>
+- Alexander Rodchenko (1891-1956): _Reine Rote Farbe, Reine Gelbe Farbe, Reine Blaue Farbe_, 1921
+
+
+Tatlin: _Corner Counter Relief_, 1914<br>
+Rodchenko: _Räumliche Konstruktion_, 1920<br>
+
+El Lissitzky, Mit dem roten Keil schlafe die Weißen (1919-20):
+- Propagandakunst
+- roter Pfeil steht für die kommunistische Revolution
+– Kampf zwischen Kommunisten und Zaren
+
+--- _Kurze Pause_ ---
+
+Studentischer Vortrag
+
+<!-- ## 2. Treffen 11.05.22 -->
