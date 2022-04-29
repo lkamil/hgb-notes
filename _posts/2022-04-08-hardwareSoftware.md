@@ -69,8 +69,44 @@ Mit einer Durchgangsprüfung (Menüpunkt am Messgerät) kann ich feststellen, um
 Über Widerstandsring realisiert.
 
 **Kirchhoffsche Regeln**<br>
-1. Kirchhoffsches Gesetz:<br>
+1. Kirchhoffsches Gesetz (Knotenregel):<br>
 _In einem Knotenpunkt eines elektrischen Netzwerkes ist die Summe der zufließenden Ströme gleich der Summe der abfließenden Ströme._
-2. Kirchhoffsches Gesetz: <br>
+2. Kirchhoffsches Gesetz (Maschenregel): <br>
 _Alle Teilspannungen eines Umlaufs bzw. einer Masche in einem elektrischen Netzwerk addieren sich zu null._<br>
 (von [wikipedia](https://de.wikipedia.org/wiki/Kirchhoffsche_Regeln))
+
+## 3. Treffen – 29.04.22
+
+Spannungsteiler<br>
+
+Anders als ein Widerstand ist eine Diode kein lineares Bauelement.
+20mA ist ein Standardwert zum Betreiben von Leuchtdioden. Es gibt auch einige, dir nur 2mA benötigen.
+
+Rechnung:<br>
+_Bei Spannungquelle von 5 Volt und einer Leuchtdiode die 20mA braucht. Wie hoch soll der Widerstand sein?_<br>
+_I = U / R umstellen nach R = U / I_<br>
+_5V / 20mA_ <br>
+_= 5V / 0.02A_ <br>
+_= 250 V/A_ <br>
+_= 250 Ω_
+
+
+U<sub>1</sub> / U<sub>2</sub> = R<sub>1</sub> / R<sub>2</sub><br>
+
+R = U<sub>1</sub> / I<sub>1</sub> = (U<sub>G</sub> - U<sub>LED</sub>) / I<sub>1</sub> = 5V - 2V / 20mA = 150Ω
+
+Wir stecken eine kleinen Schaltkreis auf dem Steckboard.
+
+––– Kurze Pause –––
+
+### Aufbau Diode
+
+Diode besteht aus einer P Schicht, einer N Schicht und einer Sperrzone.
+![Diode](/assets/images/diode.webp)
+
+
+<img src="{{ site.baseurl }}/assets/images/diode.webp" width="400">
+
+
+### Aufbau Transistor
+<img src="{{ site.baseurl }}/assets/images/npnTransistor.gif" width="300">
