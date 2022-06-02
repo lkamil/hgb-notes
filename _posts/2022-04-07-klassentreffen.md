@@ -193,6 +193,11 @@ Renaico is a small town located in the Araucania region, in Southern Chile.
 _"Value is relative: objects move across categories.<br>
 While the object systems of art and anthropolgy are institutionalized and powerful, they are not immutable. The categories of the beatiful, the cultral, and the authentic have changed and are changing.[…]"_
 
+### Hausaufgabe (Assignment):<br>
+Einen paragraphen formulieren zu dem Schema<br>
+_artistic position – exhibition debates – geopolitics_<br>
+(siehe oben)
+
 
 
 
