@@ -75,7 +75,130 @@ Wir schauen eine Videoarbeit des Kollektivs.
 Wir schauen den Film [Swinguerra](https://frauenfilmfest.com/movie/swinguerra/) von **Bárbara Wagner und Benjamin de Burca**. Thematik Selbstermächtigung und Sichtbarkeit marginalisierter Personen. Kontroverse Arbeit, da Arbeit von 2 weißen Künstlern im Kontext einer Biennale die Nation repräsentiert.
 
 
-<!-- ## 4. Treffen 10.05.22 -->
+## 4. Treffen 10.05.22
+_Ich war krank :(_
+
+## 5. Treffen am 12.05.22
+
+Wir schauen die Videoarbeit _The woolworths choir of 1979_ von [Elizabeth Price ↗](https://www.elizabethprice.site/). Die Arbeit wurde mit dem Turner Prize ausgezeichnet. Die meisten Videoclips in ihrer Arbeit sind Found Footage.
+
+Plenum: S. stellt aktuelle Projekte vor.
+
+-- Mittagspause --
+
+Plenum: Ich stelle eine meiner Projekte vor.
+
+Künstlerposition: 
+Genesis Breyer P-Orridge und Lady Jaye Breyer P-Orridge:
+_The ballad of genesis and lady jade_.
+
+
+## Treffen am 02.06.22 – mit Paz Guevara
+
+Workshop von Paz Guevara, beginnend mit Lecture<br>
+**Personal Political Cartographies<br>
+Geopolitics, Exhibition Histories and Artistic Positions**
+
+```
+ _________________________________
+|     ________________________    |
+|    |  ___________________   |   |
+|    | | Artistic Position |  |   |
+|    | |___________________|  |   |
+|    |                        |   |
+|    |     Exhibition Debates |   |
+|    |________________________|   |
+|                                 |
+|                   Geopolitics   |
+|_________________________________|
+```
+Film von **Nii Kwata Owo**: _You hide me_ (1970)<br>
+–> Film über die Sammlung geraubter Kunstwerke in London, die aus kolonialisierten Ländern stammen
+
+**What is your personal political cartography?**<br>
+Position your practice in this discussion: What are your questions related to violence of exhibitions, what are your spatial strategy and in what larger context are your conditions?
+
+
+exhibition in digital space? what strategies can be used in this type of exhibition? 
+
+Ghana Pavillion, 2019, Venice Biennale<br>
+instead of classical white cube (the dominant way of presenting art), curved walls were used with elements of traditional architecture.
+
+Textauszug aus **Aimé Césaire**: _Discours sur le colonialisme_, 1955
+
+Questions to think about:
+- How exhibitions shape meanings, categories, narratives, perspectives, periodizations?
+- What are thr political and aesthetic debates?
+- How are the aesthetic problems worked?
+- What subject emerge int he exhibition?
+- How exhibitions exclude, erase, foreclose, decontextualize, distort, apolitice knowledge and culture?
+
+Textauszug aus "_Epistemic Extractivism. A Dialogue with Alberto Acosta, Leanne Betasamaske Simpson and Silvia Rivera Cusicanqui_" von Ramón Grosfoguel.
+
+Definition of **Extractivism**:<br>
+_"In general the term extractivism can be divided into the so-called ‘traditional extractivism’ and into a new form called ‘neo-extractivism; or in Spanish ‘neo-extractivismo progresivo’ (see Svampa 2011). While ‘traditional extractivism’ deals with a well known way of getting hold of natural resources such as oil, gas or precious metals, being experienced for centuries in the whole region, the new form implies a social and political aspect in the entire process, which before was neither noticed nor discussed."_
+– Quelle: [Uni Bielefeld](https://www.uni-bielefeld.de/einrichtungen/cias/publikationen/wiki/e/extractivism.xml)
+
+Definition of **Epistemicide**:<br>
+_"The term Epistemicide was developed by the Portuguese sociologist Boaventura de Sousa Santos in his book Epistemologies of the South: Justice Against Epistemicide. Epistemicide refers to the destruction of existing knowledge. It is used within the context of colonisation which has brought violence against humans but also involved violence against indigenous knowledge of the natural world."_ 
+– Quelle: [Wikitia](https://wikitia.com/wiki/Epistemicide)
+
+_--- Mittagspause ---_
+
+Videoarbeit von **Sebastian Calfuqueo**: _Mapu Kufüll_, 2020, [vimeo link ↗](https://vimeo.com/455055310)<br>
+_"[...] portraying mushrooms, as a symbol for resistance for their communities post the 'Araucania Pacification' period."_<br>
+The mushroom museum appears and diappears  – just like mushrooms – in physical places or on the internet.
+
+**Moshtari Hilal** und **Sinthujan Varatharajah**: Gespräch _"Menschen mit Nazihintergrund"_<br>
+[Artikel im Monopol Magazin ↗](https://www.monopol-magazin.de/moshtari-hilal-menschen-mit-nazi-hintergrund-kritik-ist-das-gegenteil-von-gleichgueltigkeit)<br>
+"This conversion format has no script and no editorial team. We search for topics, questions and examples together with our viewers and discuss them live on Instagram.[…]"
+
+TiG This is Germany – Video Series on youtube, by Candice Breitz
+TiG-06 is co-hosted by Moshtari Hilal, Sinthujan Varatharajah und Candice Breitz.<br>
+[Link to youtube episode ↗](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwjF9bz_4474AhWTi_0HHYCRBT4QtwJ6BAgHEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHMT1RdR1WUk&usg=AOvVaw0ifxJNU4ETn7ymH-_kMigA)
+
+
+### Berlin's plan to return Benin bronzes piles pressure on UK museums
+
+_"Berlin is negotiating to fully restitute hundreds of the Benin bronzes in a shift of policy that has been welcomed in Nigeria but will put pressure on museums in London and Oxford to also return artefacts looted from Britain’s former west African empire in 1897._
+
+_More than 500 historical objects including 440 bronzes from the Kingdom of Benin, in what is now southern Nigeria, are held at the Ethnological Museum in the German capital. Half of the collection was due to go on display this autumn at the Humboldt Forum, a newly opened museum of non-European art in the city centre._
+
+_However, Hartmut Dorgerloh, the director of the Humboldt Forum, told German media on Monday that the complex could instead exhibit only replicas of the bronzes or leave symbolic empty spaces, and that the sculptures and reliefs could be returned to Nigeria as soon as the autumn."_
+
+[see full article ↗](https://www.theguardian.com/artanddesign/2021/mar/23/berlins-plan-to-return-benin-bronzes-piles-pressure-on-uk-museums)
+
+New museum designed by **Sir David Adjaye** in Benin City, Nigeria
+[Artikel über das Edo Museum of West African Art (EMOWAA)](https://www.theguardian.com/culture/2020/nov/14/new-museum-in-nigeria-raises-hopes-of-resolution-to-benin-bronzes-dispute-david-adjaye)
+
+**WikiWomen Wikipedia Edit-a-thon**<br>
+Global Project that aimed to increase the number of stories of women on Wikipedia.
+
+**Fabric-ATED Stories**<br>
+Fabric-ATED Stories is an Artist Residency in partnership with the Swedish Museum of World Cultures across multidisciplinary genres which looks to create a mentorship programme for mid-level artists living in Zambia and the wider Diaspora. 
+
+#### Strategies
+- Remembering history through an African lens rather than a Webstern One
+- Afrocentric view of its own narrative (local mentors, local writers, …)
+
+
+_The water community museum_, 2016-ongoing<br>
+by **Marcel Moraga** and the **Colectivo Social Salvemos el Rio Renaico**. 
+The opening and exhibition of the Museum was held on the banks of the river.
+Renaico is a small town located in the Araucania region, in Southern Chile.
+
+**Ruth Buchanan**: _Can tame anything_, 2018<br>
+**Hank Willis Thomas**: _Colonialism and Abstract Art_, 2019
+
+_"Value is relative: objects move across categories.<br>
+While the object systems of art and anthropolgy are institutionalized and powerful, they are not immutable. The categories of the beatiful, the cultral, and the authentic have changed and are changing.[…]"_
+
+
+
+
+
+
+
 <!-- ## 5. Treffen 07.06.22 -->
 <!-- ## 6. Treffen 21.06.22 -->
 <!-- ## 7. Treffen 05.07.22 -->
