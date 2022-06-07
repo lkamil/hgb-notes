@@ -110,3 +110,6 @@ Diode besteht aus einer P Schicht, einer N Schicht und einer Sperrzone.
 
 ### Aufbau Transistor
 <img src="{{ site.baseurl }}/assets/images/npnTransistor.gif" width="300">
+
+## 4. Treffen am 06.05.22
+## 5. Treffen am 13.05.22

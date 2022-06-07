@@ -149,4 +149,36 @@ El Lissitzky, Mit dem roten Keil schlafe die Weißen (1919-20):
 
 Studentischer Vortrag
 
-<!-- ## 2. Treffen 11.05.22 -->
+## 3. Treffen 11.05.22
+
+Ich war nicht da :/
+
+## 4. Treffen am 25.05.22
+
+### Jetzt! Was ist modern? Was is gegenwärtig? Zur Aktualität des Kunstwerks
+
+Studentischer Vortrag zu **Edouard Manet**.
+Wir schauen uns anschließend das Werk 'Olympia' von Manet genauer an.
+
+Wie verändert sich die Suche / Relevanz von Schönheit in der Kunst?
+
+Textauszug von **Clement Greenberg**s _"Modernist Painting"_<br>
+Vortrag den er 1960 in Washington gehalten hat.
+Mini Zusammenfassung: Bildeigenheit wir die Flachheit von Bildern, das Pigment – war von den alten Meistern behandelt wie etwas das man verstecken müsste.
+Manet hat beispielsweise die Flachheit des Bildes nicht versteckt.
+Alles in der Kunst in Kontinuierlich. 
+
+Wir gehen über von Modernismus zu Zeitgenössischer Kunst.
+
+**Giogrio Agamben** _"What is the Contemporaray?"_ (2008)
+
+Künstlerische Arbeit von **Simon Fujiwara**: _HD Make-Up_ und _Masks (Merkel F5) & Masks (Merkel E5.3)_
+
+**Simon Fujiwara**: _Anne Franks's Birthday Cake_, Installation, 2018
+
+Auf **ubu.com** gibt es viele Videoarbeiten.
+
+Wir schauen die Videoarbeit von **Hito Steyerl**: _How not to be seen_
+
+Zum Abschluss schauen wir ein Video von **Ryan Trecatin** (_Center Jenny_)
+
