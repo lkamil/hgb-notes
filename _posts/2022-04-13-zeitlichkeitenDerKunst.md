@@ -182,3 +182,12 @@ Wir schauen die Videoarbeit von **Hito Steyerl**: _How not to be seen_
 
 Zum Abschluss schauen wir ein Video von **Ryan Trecatin** (_Center Jenny_)
 
+## Treffen am 08.06.22
+
+Wir schauen zwei Performances con **John Cage**'s Musikstück _4:33_ (1952).
+
+Studentische Präsentation über den Künstler **Allan Kaprow** (Begründer des Begriffs _Happening_)
+
+Studentische Präsentation über den Konzeptkünstler **On Kawara**
+
+Studentische Präsentation über **Pierre Huyghe**, Medienkünstler, ortsspezifische Installationen, bewegte Medien, …
