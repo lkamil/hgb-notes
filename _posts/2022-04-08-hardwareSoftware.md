@@ -111,5 +111,13 @@ Diode besteht aus einer P Schicht, einer N Schicht und einer Sperrzone.
 ### Aufbau Transistor
 <img src="{{ site.baseurl }}/assets/images/npnTransistor.gif" width="300">
 
-## 4. Treffen am 06.05.22
-## 5. Treffen am 13.05.22
+<!-- ## 4. Treffen am 06.05.22
+## 5. Treffen am 13.05.22 -->
+
+## Treffen am 10.06.22
+Wir expertieren mit verschiedenen Sensoren und schreiben kleine Arduino Programme.<br>
+
+Mikrokontroller der besser für Audio geeignet ist: Teensy oder ASP32.
+
+## Treffen am 17.06.22
+Ich war krank :(
