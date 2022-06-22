@@ -113,7 +113,7 @@ Wir schauen uns eine Arbeit von Hito Steyerl an, die auf der documenta gezeigt w
 His art practice is processes driven and he works with computer programs, internet, paintings, …
 
 The obfuscation of facial recognition in creative practice
-- Paint your Face away: 2019 workshop at Tate Britain | with the software [RunwayML](https://runwayml.com/)
+- Paint your Face away: 2019 workshop at Tate Britain with the software [RunwayML](https://runwayml.com/)
     - he created a 'painbrush' with Max MSP/Jitter, to obfuscate a pixture of a face, the tool mixes images of analog paint (scanned acrylic images) and an image of the actual face
 - technology for face recognition: Viola-Jones Methode, FaceFace Detection with Haar Cascade
 - connection to cryptography
