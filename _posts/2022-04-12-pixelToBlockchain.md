@@ -5,7 +5,7 @@ date:   2022-04-12 15:00:00 +0000
 categories: Theorie
 ---
 
-## 1. Treffen 12.04.22
+## 1. Treffen am 12.04.22
 **Introduction**<br>
 _Welcome, general introduction to the class and the session's topics. Forming of groups for short presentations on artwirks/ texts._
 
@@ -19,10 +19,10 @@ Folien werden noch per Mail rumgeschickt. Kursmaterial gibt es in der Nextcloud.
 
 
 
-## (Treffen am 26.4.22)
+## ~~Treffen am 26.4.22~~
 _Fällt aus aufgrund von Krankheit_
 
-## 2. Treffen 10.5.22
+## Treffen am 10.5.22
 
 **Pixels**
 
@@ -44,6 +44,11 @@ Gedanke:
 Ein digitales Bild ist eine Zahlenrepräsentation im Speicher. Nur um das Bild zu sehen brauchen muss es processed werden.
 
 Der ganze Text ist in einem Buch dass es in der Bibliothek gibt.
+
+## Treffen am 24.05.22
+**Topic: Net Feminsm**
+
+Guest: **Prof. Dr. Wolfgang Ullrich**, lecture _Stagings of the Self on the Internet_
 
 ## Treffen am 07.06.22: NFTs, DAO and Blockchain Technology
 - **non-fungible:** uniquely identifiable<br>
@@ -85,12 +90,59 @@ Student Presentation: **Kim Asendorf**
 - [morrow collective](https://www.morrow-collective.com/)
 
 
-<!-- ## 4. Treffen 24.5.22
-**Selfies. Guest: Wolfgang Ulrich**
+## Treffen am 21.06.22
+
+**Topic: Digital Surveillance**
+
+Wir schauen uns eine Arbeit von Hito Steyerl an, die auf der documenta gezeigt wird (Animal Spirits, …)<br>
+[John Maynard Keynes](https://de.wikipedia.org/wiki/John_Maynard_Keynes)<br>
+[James Bridle: Ways of Beeing](https://jamesbridle.com/books/ways-of-being)
+
+**Strategies for face obfuscation:**
+- [Blur tool for Signal](https://signal.org/blog/blur-tools/)<br>
+- [Anonymous Camera](https://www.theverge.com/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios)<br>
+- [Fawkes – Image "Cloaking" for Personal Privacy](https://sandlab.cs.uchicago.edu/fawkes/)<br>
+- [Adam Harvey: CV Sazzle](https://cvdazzle.com/)
 
 
+[THIS IS FAKE](https://thisisfake.team/) – Collective by some HGB students
 
-## 5. Treffen 07.06.22
-## 6. Treffen 21.06.22
-## 7. Treffen 05.07.22  -->
+### Guest Talk By: **Shinji Toya**
 
+[Shinji Toya](https://shinjitoya.com/) is an artist from japan, based in london.
+His art practice is processes driven and he works with computer programs, internet, paintings, …
+
+The obfuscation of facial recognition in creative practice
+- Paint your Face away: 2019 workshop at Tate Britain | with the software [RunwayML](https://runwayml.com/)
+    - he created a 'painbrush' with Max MSP/Jitter, to obfuscate a pixture of a face, the tool mixes images of analog paint (scanned acrylic images) and an image of the actual face
+- technology for face recognition: Viola-Jones Methode, FaceFace Detection with Haar Cascade
+- connection to cryptography
+- dataset of faces by microsoft, for trainign AIs on human faces – was shut down because images from flickr were used without people's consent
+- Second Iteration of _Paint your face away_: web application in 2020
+    - can be tried out at [_www.paintyourfaceaway.net_](www.paintyourfaceaway.net)
+    - archive: [_www.paintyourfaceaway.net/archive/_](https://www.paintyourfaceaway.net/archive/)
+- [Clearview Database](https://www.clearview.ai/) that was heavily critized for using images from Facebook, Instagram, … without permission (?)
+- [_Operational Images_](https://operationalimages.cz/)
+
+### Student Presentation on *Face Recognition*
+
+Tricking face recognition systems:
+- Jing-cai Liu: [_wearable face projector_](http://jingcailiu.com/wearable-face-projector/) 2017
+- Sanne Weekers: [_ANONYMOUS_](http://sanneweekers.nl/big-brother-is-watching-you/) 2017
+- Benedict Evans: [_Face recognition and AI ethics_ (Essay)](https://www.ben-evans.com/benedictevans/2019/9/6/face-recognition)
+- Ewa Nowak: [jewerly that keeps one from beeing tracked](https://plainmagazine.com/ewa-nowak-face-recognition-jewelry/)
+- Isao Echizen: [glasses to obfucate face recoginition progams](https://slate.com/technology/2013/01/isao-echizen-and-seiichi-gohshi-s-privacy-visor-shields-you-from-facial-recognition-technology-photo.html)
+- Adam Harvey: [_CV Dazzle_](https://ahprojects.com/cvdazzle)
+
+Skynet Project in China – see article:
+[_China’s ‘Sharp Eyes’ Program Aims to Surveil 100% of Public Space_](https://cset.georgetown.edu/article/chinas-sharp-eyes-program-aims-to-surveil-100-of-public-space/)
+
+Installation [_Hansel and Gretel_](https://www.detail.de/de/de_de/blog-artikel/hansel-gretel-installation-von-jacques-herzog-pierre-de-meuron-und-ai-weiwei-30322/) by Ai Weiwei, Jacques Herzog und Pierre de Meuron. Interactive live nstallation with tracking cameras and projections.
+
+Face Recognition and digital Surveillance is also widely used in European countries. In october 2021, facial recognition in Public Spaces was forbidden.
+
+Jill Magid: [_Evidence Locker_](http://www.jillmagid.com/projects/evidence-locker-2) 2004
+
+Kate Crawford and Trevor Paglen: 
+- [ImageNet Roulette](https://www.artlog.net/de/art/imagenet-roulette), 2009
+- [Excavating AI: The Politics of Images in Machine Learning Training Sets ](https://excavating.ai/)
