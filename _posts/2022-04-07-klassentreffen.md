@@ -198,6 +198,10 @@ Einen paragraphen formulieren zu dem Schema<br>
 _artistic position – exhibition debates – geopolitics_<br>
 (siehe oben)
 
+## Treffen am 16.06.22
+
+Ich war krank :(
+
 
 
 
