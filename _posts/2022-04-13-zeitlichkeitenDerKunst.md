@@ -97,7 +97,7 @@ Genaues Wochendende der Exkursion steht noch nicht fest. Teilnahme ist freiwilli
 
 In den Referaten sollen wir Werke vorstellen. Auf das Thema Zeit eingehen.
 
-## Lecture zum Thema: Vergängliche Zukünfte | neue Zukünfte**
+## Lecture zum Thema: Vergängliche Zukünfte | neue Zukünfte
 
 ### Futurismus
 
