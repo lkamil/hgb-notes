@@ -202,6 +202,47 @@ _artistic position – exhibition debates – geopolitics_<br>
 
 Ich war krank :(
 
+## Treffen am 23.06.22
+
+[**PLENUM KALENDER LINK**](https://docs.google.com/spreadsheets/d/1fkRVrg6DvDhM4hcPgXgK1PxluttEh6zIp4gGl1Z4pX8/edit#gid=0)<br>
+[**TAPETENWERK KALENDER LINK**](https://docs.google.com/spreadsheets/d/1fkRVrg6DvDhM4hcPgXgK1PxluttEh6zIp4gGl1Z4pX8/edit#gid=186830700)
+
+Wir reden über unsere  **Gruppenausstellung im Tapetenwerk**.<br>
+Zeitraum: **05.-14.7.22**<br>
+Wir treffen uns nächste Woche (30.06.22) am Donnerstag um 11 um die Ausstellung zu besprechen.
+
+Ausstellung beim **Rundgang vom Tapetenwerk**?
+Wer alles mitmacht und der Titel der Ausstellung muss bis Ende Juli feststehen.<br>
+Die Zeiten für den Tapetenwerk Rundgang:<br>
+16.09. 17-24 Uhr<br>
+17.09. 11-18 Uhr<br>
+18.09. 11-17 Uhr
+
+**Generelle Richtlinien für Ausstellungen im Tapetenwerk:**
+```Name
+Der Raum heißt „Institut für Alles Mögliche - Hauptgebäude“ oder in kurz „Hauptgebäude“ (nicht Tapetenwerk). Bitte so auf Flyern, Social Media etc. mit angeben.
+
+Veranstaltungsankündigung
+Bitte 1 Woche bevor eine Veranstaltung im Hauptgebäude stattfindet folgende Infos per Mail an mich schicken
+
+- Veranstaltungstitel
+- Eröffnungs-Datum und Uhrzeit
+- Bis wann läuft die Veranstaltung und wie sind die Öffnungszeiten
+- Teilnehmende Künstler*innen
+- wenn vorhanden kurzer Text zur Veranstaltung
+- 1 Teaser Bild für Social Media..
+
+Bitte beachten: das wird veröffentlicht auf Instagram: @das.institut sowie auf anderen Seiten..
+
+Doku:
+Nach jeder Veranstaltung bitte 2 - 3 Bilder zu Dokumentationszwecken per Mail an F. schicken. (Bitte nur Bilder schicken, die auch auf Social Media und anderweitig veröffentlicht werden können..)
+```
+
+--- _Mittagspause_ ---
+
+After the break, some students present their work to the class.
+
+
 
 
 
