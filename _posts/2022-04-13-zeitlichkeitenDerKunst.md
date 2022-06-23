@@ -190,4 +190,38 @@ Studentische Präsentation über den Künstler **Allan Kaprow** (Begründer des 
 
 Studentische Präsentation über den Konzeptkünstler **On Kawara**
 
-Studentische Präsentation über **Pierre Huyghe**, Medienkünstler, ortsspezifische Installationen, bewegte Medien, …
+Studentische Präsentation über **Pierre Huyghe**, Medienkünstler: ortsspezifische Installationen, bewegte Medien, …
+
+## Treffen am 22.06.22
+
+Student Presentation about **Marx' Gespenster (Derrida)**
+- Buch von Derrida: [Marx' Gespenster](https://en.wikipedia.org/wiki/Specters_of_Marx)
+- Hausarbeit darüber: [Jacques Derridas Gesellschaftskritik in "Marx' Gespenster" ](https://www.grin.com/document/162956)
+- ein weiteres Buch von Derrida, dass wir kurz anschneiden: [The Animal That Therefore I Am](https://en.wikipedia.org/wiki/The_Animal_That_Therefore_I_Am)
+
+Student Presentation about **Hans Haacke**
+- Konzeptkünstler, Installationen
+- Pionier der Institutionskritik
+- Arbeit [_Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971_](https://whitney.org/collection/works/29487)
+- Projekt 74 Schau "Kunst bleibt Kunst", Wallraf-Richartz-Mueum Köln 1974
+    - zeigt Dokumentation und Informationen aller Besitzer des Bildes von Édouard Manets _Spargelbündel_
+- Installation _Germania_ bei der Biennale 1993
+    - Haacke (in Kooperation mit Nam June Paik) hat die Bodenplatten des Pavillions rausgerissen
+    - Referenz auf Caspar David Friedrichs Bild _Das Eismeer_
+- Installation _Der Bevölkerung_ im Reichsstag, 1990
+    - Abgeordnete bringen Erde aus ihren Wahlkreisen mit. Auf dem Installationsfeld wächst somit frei was eben wächst
+    - [Zeitraffer Video von 2000-2020](https://derbevoelkerung.de/)
+- Bronze Skulputur eines Pferdeskeletts namens _Gift Horse_, ausgestellt im Trafalgar Square in London 2015-2016
+    - bezug auf Sprichwort 'geschenkter Gaul'
+- Arbeit _Wir (alle) sind das Volk_, Kulturforum Berlin, 2021
+    - Haacke hatte 2003 schonmal eine ähnliche Version der Arbeit an Litfaßsäulen gezeigt
+
+Student Presentation about **Maria Eichhorn**
+- Maria Eichhorn gründetet 2017 anlässlich der documenta 14 das [Rose Valland Institute](http://www.rosevallandinstitut.org/)
+- _5 Weeks, 25 Days, 175 Hours_
+    - Schließung der Chisenhale Gallery, Mails wurden gelöscht, Telefonte nicht angenommen
+    - Beschäftigte durften quasie in dem Zeitraum nicht arbeiten
+    - Motivation: Offenlegung sozioökonomische Bedingungen des Galeriebertriebs
+
+Guest Lecture: Kunst & Kolonialismus
+
