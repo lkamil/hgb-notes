@@ -220,10 +220,12 @@ Die Zeiten für den Tapetenwerk Rundgang:<br>
 
 **Generelle Richtlinien für Ausstellungen im Tapetenwerk:**
 ```Name
-Der Raum heißt „Institut für Alles Mögliche - Hauptgebäude“ oder in kurz „Hauptgebäude“ (nicht Tapetenwerk). Bitte so auf Flyern, Social Media etc. mit angeben.
+Der Raum heißt „Institut für Alles Mögliche - Hauptgebäude“ oder in kurz 
+„Hauptgebäude“ (nicht Tapetenwerk). Bitte so auf Flyern, Social Media etc. mit angeben.
 
 Veranstaltungsankündigung
-Bitte 1 Woche bevor eine Veranstaltung im Hauptgebäude stattfindet folgende Infos per Mail an mich schicken
+Bitte 1 Woche bevor eine Veranstaltung im Hauptgebäude stattfindet
+folgende Infos per Mail an mich schicken
 
 - Veranstaltungstitel
 - Eröffnungs-Datum und Uhrzeit
@@ -232,10 +234,14 @@ Bitte 1 Woche bevor eine Veranstaltung im Hauptgebäude stattfindet folgende Inf
 - wenn vorhanden kurzer Text zur Veranstaltung
 - 1 Teaser Bild für Social Media..
 
-Bitte beachten: das wird veröffentlicht auf Instagram: @das.institut sowie auf anderen Seiten..
+Bitte beachten: das wird veröffentlicht auf Instagram: @das.institut
+sowie auf anderen Seiten..
 
 Doku:
-Nach jeder Veranstaltung bitte 2 - 3 Bilder zu Dokumentationszwecken per Mail an F. schicken. (Bitte nur Bilder schicken, die auch auf Social Media und anderweitig veröffentlicht werden können..)
+Nach jeder Veranstaltung bitte 2 - 3 Bilder zu Dokumentationszwecken 
+per Mail an F. schicken. 
+(Bitte nur Bilder schicken, die auch auf Social Media und 
+anderweitig veröffentlicht werden können..)
 ```
 
 --- _Mittagspause_ ---
